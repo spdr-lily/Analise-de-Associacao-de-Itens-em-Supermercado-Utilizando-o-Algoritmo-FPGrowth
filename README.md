@@ -2,9 +2,7 @@
 
 **1\. Introdução**
 
-A análise de associação de itens é uma técnica de mineração de dados amplamente utilizada para descobrir relações interessantes entre variáveis em grandes bancos de dados. No contexto do varejo, essa análise permite identificar padrões de compra, ou seja, quais produtos são frequentemente adquiridos em conjunto. Este projeto aplica o algoritmo FP-Growth a um conjunto de dados de transações de supermercado com o objetivo de extrair regras de associação que possam ser utilizadas para otimizar estratégias de marketing, aprimorar a gestão de estoque e implementar sistemas de recomendação de produtos.
-
-A capacidade de prever quais itens os clientes provavelmente comprarão juntos tem um valor estratégico significativo. Por exemplo, um supermercado pode usar essas informações para posicionar produtos relacionados próximos uns aos outros nas prateleiras, criar promoções conjuntas ou enviar recomendações personalizadas aos clientes. Além disso, a análise pode ajudar a otimizar os níveis de estoque, garantindo que os produtos frequentemente comprados juntos estejam sempre disponíveis.
+Este projeto aplica o algoritmo FP-Growth a um conjunto de dados de transações de supermercado com o objetivo de extrair regras de associação que possam ser utilizadas para otimizar estratégias de marketing, aprimorar a gestão de estoque e implementar sistemas de recomendação de produtos.
 
 **2\. Metodologia**
 
