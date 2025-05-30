@@ -1,0 +1,1 @@
+# Data-Mining-aplicacao-de-FPGrowth-para-analise-de-itens-frequentes-em-um-supermercado
